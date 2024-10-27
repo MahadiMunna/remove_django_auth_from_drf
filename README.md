@@ -1,0 +1,1 @@
+# remove_django_auth_from_drf
